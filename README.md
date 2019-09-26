@@ -1,0 +1,1 @@
+# wocommerce-product-page--TitleShow-CategoryShow-
